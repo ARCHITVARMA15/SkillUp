@@ -1,16 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ SkillUp– Gen Z Gamified Career Platform
+ • Engineered a comprehensive edtech platform in React featuring distinct, responsive dashboards for learners and
+ mentors, integrating gamified stats, personalized learning paths, and mentor management modules.
+ • Developed a robust backend using Node.js (assuming) and MongoDB to manage all user data, track learning
+ progress, and power real-time leaderboard scores across the application.
+ • Integrated the Google Gemini API to build an intelligent, on-demand chatbot, providing learners with instant
+ support and personalized career advice.
+ • Designed a visually rich, mobile-first UI with Tailwind CSS, centered on a fully functional leaderboard with
+ dynamic filtering, a custom podium, and a persistent user rank display to drive engagement.
+ • Tech Stack: React, Node.js, MongoDB, Groq API, TailwindCSS, Responsive UI
